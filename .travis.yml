@@ -1,9 +1,9 @@
-language: ruby node_js
-rvm: 2.4.1
+language: node_js
 node_js: 10
 before_script:
   - gem install awesome_bot
   - npm i -g lint-md
 script:
-  - awesome_bot README.md --white-list https://github.com/sindresorhus/awesome,http://issuestats.com/github/ramnes/awesome-mongodb
   - lint-md *.md
+after_failure:
+  - curl https://api.day.app/${APIDAYTOKEN}/awesome-mongodb-cn构建失败
