@@ -2,14 +2,8 @@
 
 <h1>Awesome MongoDB CN</h1>
 
-<p>
-    <a href="https://github.com/sindresorhus/awesome">
-        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
-    </a>
-    <a href="https://travis-ci.org/guanguans/awesome-mongodb-cn">
-        <img src="https://travis-ci.org/guanguans/awesome-mongodb-cn.svg?branch=master" alt="Build status"/>
-    </a>
-</p>	
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![lint markdown](https://github.com/guanguans/awesome-mongodb-cn/actions/workflows/lint-md.yml/badge.svg)](https://github.com/guanguans/awesome-mongodb-cn/actions/workflows/lint-md.yml)
 
 > :leaves: MongoDB 资源、库、工具、应用程序精选列表中文版。
 >
